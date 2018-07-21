@@ -12,4 +12,4 @@ Project contained following steps:
 
 Interactive version of Model Jupyter Notebook code: <br/>
 [Click here](https://hub.mybinder.org/user/stanislawsmyl-dream_market-5kb1avws/tree
-)
+){:target="_blank"}
