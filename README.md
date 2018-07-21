@@ -11,4 +11,4 @@ Project contained following steps:
   3. Modelling with knn, Logistic Regression and SVM.
 
 Interactive version of Model Jupyter Notebook code: <br/>
-<a href="https://hub.mybinder.org/user/stanislawsmyl-dream_market-5kb1avws/tree" target="_blank">Click here</a>
+[Click here](https://hub.mybinder.org/user/stanislawsmyl-dream_market-5kb1avws/tree)
