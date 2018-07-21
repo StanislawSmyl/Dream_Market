@@ -6,6 +6,6 @@ Data source:<br/>
 https://www.gwern.net/DNM-archives
 
 Project contained following steps:
-  1. Scrapping from Dream Market recent information about all vendors from gwern's dataset.
+  1. Scrapping from Dream Market recent information about all vendors from gwern's dataset. (There is no full code available, only snapshots in DreamMarket_scrapping.ipynb file).
   2. Preprocessing gwarn's data about Dream Market that are available in .html format only.
   3. Modelling with knn, Logistic Regression and SVM.
